@@ -1,5 +1,5 @@
 i am
 debadatta jena 
-as a python developer
+as a developer
 
 
